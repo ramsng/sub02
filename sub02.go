@@ -1,3 +1,3 @@
 package sub02
 
-const desc string = "** Lovely compute **"
+const Desc string = "** Lovely compute **"
