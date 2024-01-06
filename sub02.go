@@ -2,7 +2,7 @@ package sub02
 
 import "strings"
 
-const Desc string = "** Lovely compute **"
+const Desc2 string = "** Lovely compute **"
 const Desc1 string = "** Same word in Lowercase **"
 
 func Lowerconv(s string) string {
@@ -10,5 +10,5 @@ func Lowerconv(s string) string {
 }
 
 func Desc() string {
-	return Desc
+	return Desc2
 }
